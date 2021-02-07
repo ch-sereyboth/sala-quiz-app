@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-salaquiz-dev-44534-authRole",
+      "UnauthRoleArn": "arn:aws:iam::500908269078:role/amplify-salaquiz-dev-44534-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::500908269078:role/amplify-salaquiz-dev-44534-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-salaquiz-dev-44534-deployment",
+      "UnauthRoleName": "amplify-salaquiz-dev-44534-unauthRole",
+      "StackName": "amplify-salaquiz-dev-44534",
+      "StackId": "arn:aws:cloudformation:us-west-2:500908269078:stack/amplify-salaquiz-dev-44534/d1ee1b40-698d-11eb-9ed8-0a4b574888d3",
+      "AmplifyAppId": "d56dr66icm90h"
+    },
+    "categories": {
+      "auth": {
+        "salaquize8032e57": {}
+      }
+    }
+  }
+}

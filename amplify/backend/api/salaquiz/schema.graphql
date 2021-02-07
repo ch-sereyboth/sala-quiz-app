@@ -1,0 +1,7 @@
+type Result @model {
+  id: ID!
+  name: String!
+  course: String!
+  quizroom: String!
+  score: Int!
+}
